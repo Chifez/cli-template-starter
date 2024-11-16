@@ -1,4 +1,4 @@
-## Getting started with our CLI tool (WIP)
+## Getting started with our CLI tool
 
 Get your project started using a framework of your choice,from our list of starter templates all spinned up and ready to go.
 
